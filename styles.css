@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{box-sizing: border-box;}
+
+.headtable{
+background-color:slategray;
+width: 1000px;
+height: 50px;
+font-size: 13px;
+font-weight: bold;
+text-align: center;
+border-radius: 3px;
+margin:10px;
+float:right;
+padding-top: 15px;
+}
+
+.ht{
+font-size: 12px;
+font-weight: normal;
+margin-top: 15px;
+margin-bottom: auto;
+}
+
+.at{color:whitesmoke;}
+
+body{
+font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+width:1000px;
+margin:10px;
+}
+
+header{
+background-color:#CDA1A2;
+color:white;
+width: 1000px;
+padding:5px;
+text-align: center;
+border-radius: 3px;
+margin: 10px;
+}
+
+a{
+text-decoration: none;
+color:black;
+}
+
+a:hover{color:lightgray;}
+
+a:active{text-decoration: none;}
+
+article{
+border-style:dashed;
+border-color:#CDA1A2;
+margin: 10px;
+padding: 50px;
+width:1000px;
+height:400px;
+float:left;
+overflow-x:hidden;
+overflow-y: auto;
+}
+
+footer{
+display:inline-block;
+background-color:#CDA1A2;
+color:white;
+font-size: 12px;
+width:1000px;
+height: 30px;
+text-align:center;
+border-radius:3px;
+margin:10px;
+}
