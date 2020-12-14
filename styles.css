@@ -5,7 +5,7 @@
 
 .headtable{
 background-color:slategray;
-width: 2000px;
+width: 1250px;
 height: 50px;
 font-size: 13px;
 font-weight: bold;
@@ -27,14 +27,14 @@ margin-bottom: auto;
 
 body{
 font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
-width:2000px;
+width:1250px;
 margin:10px;
 }
 
 header{
 background-color:#CDA1A2;
 color:white;
-width: 2000px;
+width: 1250px;
 padding:5px;
 text-align: center;
 border-radius: 3px;
@@ -55,7 +55,7 @@ border-style:dashed;
 border-color:#CDA1A2;
 margin: 10px;
 padding: 50px;
-width:2000px;
+width:1250px;
 height:400px;
 float:left;
 overflow-x:hidden;
@@ -67,7 +67,7 @@ display:inline-block;
 background-color:#CDA1A2;
 color:white;
 font-size: 12px;
-width:2000px;
+width:1250px;
 height: 30px;
 text-align:center;
 border-radius:3px;
